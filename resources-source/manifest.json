@@ -1,13 +1,13 @@
 {
    "format_version" : 2,
-   "header" : {
-      "name" : "§l§bBlueMods §aOptimization §ev3.5.0§r",
+   "header": {
+      "name": "§l§bBlueMods §aOptimization §ev3.5.0§r",
       "description": "https://dsc.gg/bluemods",
-      "uuid" : "88259ca6-63d2-495f-b25c-307328e40d48",
+      "uuid": "88259ca6-63d2-495f-b25c-307328e40d48",
       "min_engine_version": [1, 21, 70],
-      "version" : [3, 5, 0]
+      "version": [3, 5, 0]
    },
-   "modules" : [
+   "modules": [
       {
          "description": "original source by blueshadow\nhttps://dsc.gg/bluemods",
          "type": "resources",

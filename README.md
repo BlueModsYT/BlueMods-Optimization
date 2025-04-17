@@ -25,8 +25,11 @@
 - Better Background UI
 - Enhanced World Generation
 - Fog Enhancement
+- Bow & Crossbow Indicator
+- Better Potions
+- Small Fire
 
-## **NICE**
+## **You did Great!**
 - [BlueMods](https://bluemods.neocities.org)
 - [GitHub Releases](../../releases)
 
