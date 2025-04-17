@@ -1,0 +1,66 @@
+{
+  "button_panel_wrapper@structure_editor.button_panel_wrapper": {
+    "type": "image",
+    "texture": "textures/ui/recipe_back_panel",
+    "layer": 2,
+    "offset": [ 0, 2 ],
+    "controls": [
+      {
+        "panel": {
+          "type": "panel",
+          "size": [ "100% - 6px", "100% - 6px" ],
+          "anchor_from": "center",
+          "anchor_to": "center",
+          "controls": [
+            {
+              "divider": {
+                "type": "panel",
+                "size": [ "4px", "100%" ],
+                "anchor_from": "top_left",
+                "anchor_to": "top_left"
+              }
+            },
+            {
+              "save_panel@structure_editor.save_button_panel": {
+                "layer": 3
+              }
+            },
+            {
+              "corner_panel@structure_editor.corner_button_panel": {
+                "layer": 3
+              }
+            },
+            {
+              "load_panel@structure_editor.load_button_panel": {
+                "layer": 3
+              }
+            },
+            {
+              "3d_export_panel@structure_editor.3d_export_button_panel": {
+                "layer": 3
+              }
+            },
+            {
+              "data_panel@structure_editor.data_button_panel": {
+                "layer": 3
+              }
+            },
+            {
+              "how_to_play_button@structure_editor.help_button_panel": {
+                "layer": 3
+              }
+            },
+            {
+              "end_divider": {
+                "type": "panel",
+                "size": [ "4px", "100%" ],
+                "anchor_from": "top_right",
+                "anchor_to": "top_right"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

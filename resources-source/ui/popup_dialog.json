@@ -1,0 +1,5 @@
+{
+  "popup_dialog": {
+    "prevent_touch_input": true
+  }
+}
