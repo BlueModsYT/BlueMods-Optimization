@@ -17,7 +17,7 @@
 - Dark UIs
 - Advance Chatting 
 - Auto Chat Mode
-- No Particle
+- No Particles
 - Better Sounds
 - Structure Block Importer
 - Small Swords
@@ -28,6 +28,8 @@
 - Bow & Crossbow Indicator
 - Better Potions
 - Small Fire
+- Xray Toggles
+- Better Anvil
 
 ## **You did Great!**
 - [BlueMods](https://bluemods.neocities.org)
